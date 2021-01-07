@@ -7,7 +7,7 @@ Seja bem-vindo ao meu perfil no GitHub 😎
 Me chamo Guilherme Alves. Nascido, criado, e atualmente morando em Santos, litoral de SP.
 
 ## O que eu faço
-Sou um desenvolvedor front-end, e busco sempre me atualizar, estudar e aprender o máximo possível. Atualmente, trabalho na [Timepix]#(http://www.timepix.com.br/), que é uma agência digital também de Santos; faço parte da equipe desde 2010.
+Sou um desenvolvedor front-end, e busco sempre me atualizar, estudar e aprender o máximo possível. Atualmente, trabalho na [Timepix](http://www.timepix.com.br/), que é uma agência digital também de Santos; faço parte da equipe desde 2010.
 
 ## Meus campos
 HTML, CSS, JavaScript, React, SASS, jQuery, Bootstrap, entre outros.
