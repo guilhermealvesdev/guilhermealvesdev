@@ -10,7 +10,7 @@ Me chamo Guilherme Alves. Nascido, criado, e atualmente morando em Santos, litor
 Sou um desenvolvedor front-end, e busco sempre me atualizar, estudar e aprender o máximo possível. Atualmente, trabalho na [Timepix](http://www.timepix.com.br/), que é uma agência digital também de Santos; faço parte da equipe desde 2010.
 
 ## Meus campos
-HTML, CSS, JavaScript, SASS, jQuery, Bootstrap, entre outros.
+HTML5, CSS3, JavaScript, SASS, jQuery, Bootstrap, entre outros.
 Atualmente estou estudando React, e planejo começar a estudar NextJS e Gatsby.
 
 ## Como falar comigo
