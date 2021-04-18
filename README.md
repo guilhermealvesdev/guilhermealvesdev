@@ -11,7 +11,7 @@ Sou um desenvolvedor front-end, e busco sempre me atualizar, estudar e aprender 
 
 ## Meus campos
 HTML5, CSS3, JavaScript, SASS, jQuery, Bootstrap, entre outros.
-Atualmente estou estudando React, e planejo começar a estudar NextJS e Gatsby.
+Atualmente estou estudando React, e planejo começar a estudar NextJS, Gatsby, e TypeScript.
 
 ## Como falar comigo
 Mande-me [um e-mail](mailto:guilherme.alves.formal@gmail.com) ou acesse [meu LinkedIn](http://linkedin.com.br/in/guilhermealvesdev) e mande-me uma mensagem. Eu te responderei assim que puder! :)
