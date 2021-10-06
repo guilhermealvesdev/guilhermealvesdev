@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/guilhermealvesdev/guilhermealvesdev/main/devcard.svg" width="400" /></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/guilhermealvesdev/guilhermealvesdev/blob/main/devcard.svg" width="400" /></a>
 
 # Olá!
 
