@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/guilhermealvesdev/guilhermealvesdev/main/devcard.svg" width="400" /></a>
+
 # Olá!
 
 Seja bem-vindo ao meu perfil no GitHub 😎
