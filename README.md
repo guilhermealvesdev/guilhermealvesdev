@@ -1,5 +1,3 @@
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/guilhermealvesdev/guilhermealvesdev/blob/main/devcard.svg" width="400" /></a>
-
 # Olá!
 
 Seja bem-vindo ao meu perfil no GitHub 😎
@@ -17,6 +15,9 @@ Atualmente estou estudando React, e planejo começar a estudar NextJS, Gatsby, e
 
 ## Como falar comigo
 Mande-me [um e-mail](mailto:guilherme.alves.formal@gmail.com) ou acesse [meu LinkedIn](http://linkedin.com.br/in/guilhermealvesdev) e mande-me uma mensagem. Eu te responderei assim que puder! :)
+
+## Meus números no daily.dev
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/guilhermealvesdev/guilhermealvesdev/blob/main/devcard.svg" width="400" /></a>
 
 <!--
 **guilhermealvesdev/guilhermealvesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
